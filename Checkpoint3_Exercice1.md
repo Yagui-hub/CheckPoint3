@@ -1,4 +1,4 @@
-### Partie 1 Gestion des Utilisateurs 
+### Partie 1 : Gestion des Utilisateurs 
 
 Q 1.1.1
 
@@ -19,7 +19,7 @@ Q 1.1.4
 ![VirtualBox_Checkpoint3-SRVWIN01_17_01_2025_10_16_18](https://github.com/user-attachments/assets/620e96af-1772-4187-a581-59cd8e46f1d7)
 
 
-### Partie 2 Restriction utilisateurs 
+### Partie 2 : Restriction utilisateurs 
 
 Q 1.2.1 
 ![VirtualBox_Checkpoint3-SRVWIN01_17_01_2025_10_39_35](https://github.com/user-attachments/assets/5031f731-4665-496e-b4ab-5fe8f62488c5)
@@ -31,7 +31,7 @@ Q 1.2.3
 ![VirtualBox_Checkpoint3-SRVWIN01_17_01_2025_11_02_48](https://github.com/user-attachments/assets/f1005426-e169-4e50-afbc-8c1edf8b5a7d)
 
 
-### Partie 3 Lecteurs Réseaux 
+### Partie 3 : Lecteurs Réseaux 
 
 Q 1.3.1
 ![VirtualBox_Checkpoint3-SRVWIN01_17_01_2025_11_35_21](https://github.com/user-attachments/assets/91b16620-3a5d-4890-bbda-c251e18bdb7b)
