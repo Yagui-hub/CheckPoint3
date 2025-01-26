@@ -31,7 +31,7 @@ Q 2.2.3
 ### Partie 3 : Analyse du stockage 
 
 Q 2.3.1 
-> 1. Les systèmes de fichiers montés sont : udev,tmpfs,dev/mdp01,dev/mapper/cp3--vg-root
+> 1. Les systèmes de fichiers montés sont : ext4, ext2 
 
 Q 2.3.2
 > 2. Ils utilisent le RAID et LVM 
@@ -40,17 +40,20 @@ Q 2.3.3
 
 ![VirtualBox_Checkpoint3-SRVLX01_20_01_2025_10_33_00](https://github.com/user-attachments/assets/d11ad00e-926f-4123-be4f-5b7ad5d90791)
 
+![VirtualBox_Checkpoint3-SRVLX01_26_01_2025_19_30_06](https://github.com/user-attachments/assets/3bb7e62a-784a-4897-933d-1beb409d812f)
+
+
 Q 2.3.4 
 
 ![VirtualBox_Checkpoint3-SRVLX01 1_20_01_2025_22_01_05](https://github.com/user-attachments/assets/dce7cbcd-50f8-4fba-80c1-29fafad33721)
 
-![VirtualBox_Checkpoint3-SRVLX01 1_20_01_2025_22_07_58](https://github.com/user-attachments/assets/756c8418-72a6-415f-9bfd-0fb9258ff421)
+![VirtualBox_Checkpoint3-SRVLX01 1_20_01_2025_22_07_58](https://github.com/user-attachments/assets/53b7315a-3b9f-4628-a9f6-1db013e68eba)
 
 ![VirtualBox_Checkpoint3-SRVLX01 1_20_01_2025_22_08_23](https://github.com/user-attachments/assets/df76bf7f-bdf9-4fc5-9e83-67b4758e1001)
 
 Q 2.3.5 
 
-> 1. Il reste 5Gio sur le volume disque 
+> 1. Il reste 1.79Gio sur le volume disque 
 
 ### Partie 4 : Sauvegardes 
 
@@ -86,9 +89,10 @@ Q 2.5.1
 
 Q 2.5.2 
 > Connexion par SSH sur le port 22 
+> Protocol ICMP 
+> IPV6 
 
 Q 2.5.3 
-> policy drop 
 > ct state invalid drop 
 
 Q 2.5.4 
